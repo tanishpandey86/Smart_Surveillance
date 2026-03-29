@@ -181,6 +181,45 @@ This system is **fully unsupervised**. It requires no pre-collected dataset. The
 
 ---
 
+## Real World Use Cases
+
+### 🏠 Home Security
+Point your camera at a front door, window, or driveway. The system instantly alerts you when someone enters the frame and saves timestamped photo evidence — no subscription, no cloud, fully offline. Works 24/7 as long as your machine is running.
+
+### 👶 Baby & Pet Monitoring
+Monitor a room and get an instant sound alert the moment your baby wakes up or your pet moves into a restricted area. No dedicated hardware needed — just a laptop and a webcam.
+
+### 🏢 Office & Lab Security
+Watch over equipment, server rooms, or restricted lab areas after hours. Automatically log all motion events as timestamped snapshots that can be reviewed later.
+
+### 🎓 Online Exam Invigilation
+Detect suspicious activity during remote exams — multiple people entering the frame, candidate leaving the seat, or unexpected movement. Can be integrated into any online proctoring pipeline.
+
+### 🛒 Retail Analytics
+Track customer movement patterns through store aisles, count footfall in specific zones, and analyze peak traffic hours — all using just a ceiling-mounted camera.
+
+### 🚗 Traffic & Parking Monitoring
+Point the camera at a road or parking lot to detect and count moving vehicles, flag wrong-way movement, or monitor parking space occupancy in real time.
+
+### 🏭 Industrial Floor Safety
+Monitor conveyor belts, machinery zones, or factory floors for unexpected human presence or equipment movement anomalies that could indicate a safety hazard.
+
+### 🌿 Wildlife & Nature Observation
+Set up a camera outdoors to automatically capture photos of animals or birds that enter the frame — a low-cost alternative to commercial wildlife camera traps.
+
+| Use Case | Key Benefit |
+|---|---|
+| Home security | Offline, no subscription cost |
+| Baby / pet monitor | Instant audio alert |
+| Office security | Timestamped evidence logs |
+| Exam invigilation | Detects multiple people in frame |
+| Retail analytics | Footfall and zone tracking |
+| Traffic monitoring | Vehicle detection and counting |
+| Industrial safety | Unauthorized zone entry detection |
+| Wildlife observation | Auto-capture on movement |
+
+---
+
 ## Possible Extensions
 
 | Extension | Tools Needed |

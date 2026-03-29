@@ -1,0 +1,41 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Alert snapshots saved by the app
+alerts/
+
+# Recorded video output
+output.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Compiled Python extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
